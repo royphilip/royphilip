@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://royphilip.xyz">
-    <img src="https://github.com/user-attachments/assets/f2380e40-20d1-46d5-a327-99211c3a2acd" alt="BuilderBUG Logo" width="120">
+    <img src="https://github.com/user-attachments/assets/6e3967bf-c6a0-4a58-a6df-2cf7d09cf0f8" alt="BuilderBug Logo" width="120">
   </a>
   <h1 align="center">Roy Philip // Tools & Tech for Developers Who Ship</h1>
   <p align="center">
@@ -39,7 +39,7 @@ These are personal dev tools I built to scratch my own itch. They are all housed
 
 I enjoy testing assumptions and sharing data-driven insights. Here's my latest analysis on LLM performance.
 
-<a href="https://royphilip.xyz/blog/json-vs-xml-llm-parsing-efficiency" style="text-decoration: none;">
+<a href="https://royphilip.xyz/blog/json-vs-xml-llm-showdown" style="text-decoration: none;">
   <div style="border: 1px solid #374151; border-radius: 8px; padding: 16px; display: flex; align-items: center; gap: 16px;">
     <img src="https://github.com/user-attachments/assets/49f53505-41ca-4537-8da8-9b2b3e07c416" alt="JSON vs XML OG Image" width="120" style="border-radius: 4px;">
     <div>
@@ -61,10 +61,7 @@ I care more about shipping solutions than debating frameworks, but this is the g
 | `React`       | `Node.js`     | `PostgreSQL`  | `Bun` `Vite`           | `Claude Code` `Cursor`   |
 | `Next.js`     | `Python`      | `Redis`       | `Turbo` `PM2`          | `OpenAI API` `Gemini`    |
 | `TypeScript`  | `Express`     | `SQLite`      | `TailwindCSS` `Git`    | `code2prompt`            |
-| `Wagmi` `viem`| `Prisma`      |               | `Hardhat`              | `Various OSS Models`     |
-
+| `Wagmi` `viem`| `Prisma`      | `MySQL`       | `Hardhat`              | `Repo Prompt`            |
+|               |               |               |                        | `Various OSS Models`     |
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royphilip&show_icons=true&theme=transparent&hide_border=true&title_color=059669&icon_color=059669&text_color=d1d5db" alt="royphilip's GitHub stats" />
-</div>
