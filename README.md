@@ -44,7 +44,7 @@ I enjoy testing assumptions and sharing data-driven insights. Here's my latest a
     <img src="https://github.com/user-attachments/assets/49f53505-41ca-4537-8da8-9b2b3e07c416" alt="JSON vs XML OG Image" width="120" style="border-radius: 4px;">
     <div>
       <h3 style="margin: 0 0 8px 0;">JSON vs. XML: A Data-Driven Analysis of LLM Parsing Efficiency</h3>
-      <p style="margin: 0; font-size: 14px; color: #9ca3af;">Tested 11 major LLMs across 8 companies. The winner wasn't JSON. A data-driven analysis comparing JSON and XML for complex LLM prompts reveals company-specific architecture patterns.</p>
+      <p style="margin: 0; font-size: 14px; color: #9ca3af;">Tested 12 major LLMs across 8 companies. A definitive, data-driven analysis reveals that format preference is dictated by a model's underlying architecture, not a universal rule.</p>
       <strong>Read the full article →</strong>
     </div>
   </div>
